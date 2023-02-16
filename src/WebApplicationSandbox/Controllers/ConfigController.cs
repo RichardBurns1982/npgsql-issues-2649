@@ -31,8 +31,6 @@ namespace WebApplicationSandbox.Controllers
 				throw new InvalidOperationException("Connection is not NpgsqlConnection");
 			}
 
-
-
 			StringBuilder sb = new StringBuilder();
 			sb.Append("Connection loaded");
 			sb.Append($"Number of UserTypeMappings from EF: ");
