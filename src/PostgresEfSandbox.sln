@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresEfSandbox", "PostgresEfSandbox\PostgresEfSandbox.csproj", "{F6E56107-4F73-4F40-BB1C-42D12190026B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationSandbox", "WebApplicationSandbox\WebApplicationSandbox.csproj", "{58C5A7AC-E245-4159-86BC-2BA07353B88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E56107-4F73-4F40-BB1C-42D12190026B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E56107-4F73-4F40-BB1C-42D12190026B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E56107-4F73-4F40-BB1C-42D12190026B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E56107-4F73-4F40-BB1C-42D12190026B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C5A7AC-E245-4159-86BC-2BA07353B88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C5A7AC-E245-4159-86BC-2BA07353B88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C5A7AC-E245-4159-86BC-2BA07353B88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C5A7AC-E245-4159-86BC-2BA07353B88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05D0CD99-09BD-438B-A08F-4C65F944CE7A}
+	EndGlobalSection
+EndGlobal
